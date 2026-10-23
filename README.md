@@ -53,14 +53,8 @@ I care about software craftsmanship, continuous learning, and using new technolo
 - 🧪 Raising code quality through testing, refactoring, and code reviews
 - 🌎 Collaborating with cross-functional, distributed teams
 
+
 ---
-
-### 🚀 Featured projects
-
-<!-- Replace these with your best frontend repositories. -->
-
-| Project | What it does | Stack |
-
 
 ### 📚 Currently exploring
 
